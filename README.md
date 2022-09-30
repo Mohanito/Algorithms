@@ -11,3 +11,4 @@ This is my personal repository for C++ implementations of algorithms appeared in
 - Segment tree
 - Trie tree
 - Boyer Moore majority vote algorithm
+- Kruskal's algorithm for MST with union find
