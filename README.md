@@ -3,11 +3,11 @@ This is my personal repository for C++ implementations of algorithms appeared in
 
 ## List of implementations
 - Quickselect
+- Union find
 
 ## To-dos
 - Shortest path: Dijkstra, Bellman-Ford
 - Cycle detection: tortoise and hare
-- Union find
 - Segment tree
 - Trie tree
 - Boyer Moore majority vote algorithm
